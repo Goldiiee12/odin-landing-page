@@ -76,7 +76,6 @@ img{
 .p-first{
     font-size: 18px;
     color: #e5e7eb;
-
 }
 
 .sign-up-first-section{
@@ -197,4 +196,13 @@ h4{
     height: 40px;
     border: 1px solid white;
     border-radius: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    height: 75px;
+    align-items: center;
 }
