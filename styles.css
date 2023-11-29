@@ -119,3 +119,28 @@ h2{
     font-size: 18px;
 }
 
+.third-section{
+    background-color: #e5e7eb;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+}
+
+.p-third{
+    font-size: 18px;
+}
+
+#p-div{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 300px;
+}
